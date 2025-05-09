@@ -1,0 +1,6 @@
+9.5.2025 dc: kalleaito
+
+FE trolling scripts:
+Fe grab script: loadstring(game:HttpGet('https://pastebin.com/2NiXbzjS'))()
+Fe hat hub: loadstring(game:HttpGet("https://raw.githubusercontent.com/inkdupe/hat-scripts/refs/heads/main/updatedhathub.lua"))()
+dti gui: loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/DTI-GUI-V2/main/dti_gui_v2.lua",true))()
