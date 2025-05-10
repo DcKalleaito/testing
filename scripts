@@ -4,3 +4,11 @@ FE trolling scripts:
 Fe grab script: loadstring(game:HttpGet('https://pastebin.com/2NiXbzjS'))()
 Fe hat hub: loadstring(game:HttpGet("https://raw.githubusercontent.com/inkdupe/hat-scripts/refs/heads/main/updatedhathub.lua"))()
 dti gui: loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/DTI-GUI-V2/main/dti_gui_v2.lua",true))()
+Hat hub FE for Just a Baseplate game: loadstring(game:HttpGet("https://raw.githubusercontent.com/inkdupe/hat-scripts/refs/heads/main/updatedhathub.lua"))()
+grow a garden script: loadstring(game:HttpGet("https://raw.githubusercontent.com/H4xScripts/Loader/refs/heads/main/loader2.lua"))()
+infinite yield: loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+Dead rails: loadstring(game:HttpGet("https://get.nathub.xyz/loader"))();
+brookhaven script: loadstring(game:HttpGet("https://raw.githubusercontent.com/ameicaa0/brookhaven/refs/heads/main/brookhaven%20script.txt"))()
+babft: loadstring(game:HttpGet('https://raw.githubusercontent.com/TheRealAsu/BABFT/refs/heads/main/Loader.lua'))()
+
+i will soon make my own hub including all the scripts
